@@ -1,3 +1,6 @@
+<img width="1911" height="1073" alt="image" src="https://github.com/user-attachments/assets/9166b804-21c5-4f1f-9ff8-0e3559b777c8" />
+
+
 Uber Data Analytics Dashboard 
 
 This repository contains an interactive data analytics dashboard created in Microsoft Power BI, designed to visualize and analyze key performance indicators (KPIs) from Uber ride booking data.
